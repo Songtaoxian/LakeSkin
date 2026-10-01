@@ -1,0 +1,9 @@
+data/
+themes/last-theme.json
+themes/theme-*.json
+engine/theme.cfg
+engine/theme.qss
+self-test.txt
+*.tmp
+__pycache__/
+*.pyc
